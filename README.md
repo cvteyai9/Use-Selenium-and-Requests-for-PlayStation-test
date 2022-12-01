@@ -1,4 +1,4 @@
-# 使用Selenium以及Requests實作前後端測試
+# 使用Selenium以及Requests前後端測試
 ## 共三個測項
 ### **1.在首頁下拉式選單中測試Facebook連結功能是否正確**
 ### **2.在首頁下拉式選單中測試Instagram連結功能是否正確**
