@@ -10,3 +10,4 @@
 ## Requests
 ## Selenium
 ## Allure
+# !!!注意chromedriver.exe版本是否與瀏覽器版本相符!!!
